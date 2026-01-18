@@ -1,32 +1,47 @@
-def hadimh93_readme():
-    print("""
-🚀 Hey there, I'm @hadimh93!
+# Hadi Mohammadi
 
-🔥 Passionate about bridging the gap between social science and artificial intelligence, I am a PhD Candidate at the Faculty of Social and Behavioral Science at Utrecht University. My work focuses on Explainable Large Language Models (LLMs) and fostering Human-AI Collaboration, with a strong emphasis on ethical AI development and social impact.
+**Senior Machine Learning Scientist** | **PhD in Explainable AI** (Utrecht University, 2025)
 
-💼 Previously, I've spent over four years as a Data Scientist, where I've tackled real-world business challenges by designing, training, and fine-tuning machine learning models. My cross-industry expertise covers finance, fraud detection, anomaly detection, natural language processing, and customer behavior analysis, leveraging deep and reinforcement learning techniques. I'm highly skilled at constructing tuning and validation procedures to optimize AI/ML systems' effectiveness and performance.
+Building production ML systems for high-stakes applications. 6+ years developing end-to-end pipelines for NLP, classification, ranking, and optimization at scale.
 
-🌐 I love sharing my work and engaging with the AI community - check out my GitHub account for more: [https://github.com/hadimh93]
+---
 
-🎯 Key Interests:
+## Current Role
 
-* Human-Centric Data Science 🧑‍🤝‍🧑
-* Reinforcement Learning (RL) 🚀
-* Explainable AI & Fairness in ML 🌈
-* Natural Language Processing (NLP) 🗣️
-* Data-Driven Decision Science & Optimization 🎯
-* Behavioral Science & Psychology 🧠
+**Senior Data Science & AI Expert** @ [AcademicTransfer](https://corporate.academictransfer.com/)
+- Leading AI strategy for academic recruitment platform
+- Deployed active learning ranking systems
+- Built end-to-end ML pipelines at scale
 
-🤝 I am always eager to connect with like-minded individuals, explore new opportunities, collaborate on projects, or exchange ideas about the ethical development and application of AI. Let's connect and make a difference together! ✨
-    """)
+---
 
-hadimh93_readme()
+## Research Focus
 
+- Explainable NLP & Large Language Models
+- Human-AI Collaboration & Ethical AI
+- Cross-Cultural Fairness in AI Systems
+- Robust NLP for Harmful Content Detection
 
-   
+---
 
+## Technical Skills
 
-<!---
-hadimh93/hadimh93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**ML/DL**: PyTorch, TensorFlow, Transformers, BERT, GPT, LLaMA
+**Methods**: Active Learning, NLP, Reinforcement Learning, Optimization
+**Data**: PySpark, SQL, Hadoop, Snowflake
+**MLOps**: Azure ML, MLflow, Docker, Kubernetes
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-mohammadi--hadi.github.io-blue?style=flat-square)](https://mohammadi-hadi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square)](https://www.linkedin.com/in/mohammadi-hadi/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=w4Jt-FAAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-mohammadi--hadi-181717?style=flat-square)](https://github.com/mohammadi-hadi)
+
+---
+
+<div align="center">
+<sub>Utrecht University PhD | Data Science & AI</sub>
+</div>
